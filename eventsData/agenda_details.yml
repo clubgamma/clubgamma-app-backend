@@ -33,7 +33,7 @@
      timeduration: 05:40 to 06:30 PM
      speaker: Chirayu Joshi
      session: Hands on Session
-     photo: https://user-images.githubusercontent.com/57007680/89312810-56071f80-d695-11ea-9b49-dd2d96c78952.png
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/chirayu-joshi-min.jpg
      discription: You will get to learn ther basic opreation like create repo, pull, merge etc using GitHub website.
    - name: Break Time
      time: 06:30 PM
@@ -46,7 +46,7 @@
      timeduration: 06:35 to 07:05 PM
      speaker: Chirayu Joshi
      session: Hands on Session
-     photo: https://user-images.githubusercontent.com/57007680/89312810-56071f80-d695-11ea-9b49-dd2d96c78952.png
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/chirayu-joshi-min.jpg
      discription: You will learn Fuction of GitHub once again but in Command line Interface.
    - name: |
         Bonus
