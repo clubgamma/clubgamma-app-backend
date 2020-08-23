@@ -7,7 +7,7 @@
      timeduration: 04:30 to 05:00 PM
      speaker: Rudra Barad
      session: introduction Session
-     photo: https://user-images.githubusercontent.com/57007680/89312793-50a9d500-d695-11ea-8c7b-324c099370b8.png
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
      discription: Brief intro of version controlling system.
    - name: Break Time
      time: 05:00 PM
@@ -20,7 +20,7 @@
      timeduration: 05:05 to 05:35 PM
      speaker: Rudra Barad
      session: Lecture Session
-     photo: https://user-images.githubusercontent.com/57007680/89312793-50a9d500-d695-11ea-8c7b-324c099370b8.png
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
      discription: Basic terms of GitHub and the tour of GitHub Website. You will get to know basic of GitHub!
    - name: Break Time
      time: 05:35 PM
@@ -56,5 +56,5 @@
      timeduration: 07:05 to 07:20 PM
      speaker: Rudra Barad
      session: Introduction
-     photo: https://user-images.githubusercontent.com/57007680/89312793-50a9d500-d695-11ea-8c7b-324c099370b8.png
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
      discription: You will get to know about the GitHub Student Developer Pack and GitHub Pages!
