@@ -28,7 +28,7 @@
 - title: Nailing Coding Interviews
   event_type: QnA Session
   description: This event will be useful for pre-final and final year students as our campus placements are starting. This event will mostly focus on how to nail coding interviews at good product based companies, What care should be taken and how to apply for the interview and getting into it.
-  imageLinks: https://user-images.githubusercontent.com/57007680/90880337-f1063600-e3c5-11ea-9c69-6a6efa1a876c.jpg
+  imageLinks: https://raw.githubusercontent.com/clubgamma/clubgamma-app-backend/master/images/nailing_coding_interviews2908/poster.png
   date: 2020-08-29
   time: 8:30 PM
   venue: YouTube Channel
@@ -38,7 +38,7 @@
   speakers:
    - name: Anjali Viramgama
      post: SDE Intern at Facebook
-     image: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
+     image: https://raw.githubusercontent.com/clubgamma/clubgamma-app-backend/master/images/nailing_coding_interviews2908/guest_pic.jpg
      designation: Guest of ClubGamma
      linkedin: https://www.linkedin.com/in/anjali-viramgama-085285166/
      twitter: https://twitter.com/AnjaliViramgama
