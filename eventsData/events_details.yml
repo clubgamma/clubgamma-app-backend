@@ -1,0 +1,55 @@
+- title: Intro to git & GitHub
+  event_type: Workshop
+  description: It's a 3 hours hands on workshop which will be conducted by our club for all students to learn Git & GitHub.
+  imageLinks: https://user-images.githubusercontent.com/57007680/90880337-f1063600-e3c5-11ea-9c69-6a6efa1a876c.jpg
+  date: 2020-08-21
+  time: 4:30 PM
+  venue: Google Meet
+  hashtag: '#ClubGamma @club_gamma #IntroToGitHub'
+  registrationLink: https://docs.google.com/forms/d/e/1FAIpQLScDi6fludGDQvyLw4jzgtw4WimqTnFaKVLoETt6Hea4WMIiUw/closedform
+  feedbackLink: http://bit.ly/e1-feedback
+  sponsors:
+   - name: GitHub
+     type: Main sponsor
+     logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png 
+  speakers:
+   - name: Rudra Barad
+     post: Graphics Designer
+     image: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
+     designation: Member at ClubGamma
+     linkedin: https://www.linkedin.com/in/rudra-barad/
+     twitter: https://twitter.com/rudraabarad
+     github: https://github.com/rudrabarad
+     instagram: https://www.instagram.com/rudra.barad/
+   - name: Chirayu Joshi
+     post: Web Expert
+     image: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/chirayu-joshi-min.jpg
+     designation: Member at ClubGamma
+     linkedin: https://www.linkedin.com/in/chirayu-joshi-154b3317b/
+     twitter: https://twitter.com/chirayu_joshi_
+     github: https://github.com/chirayu-joshi
+     instagram: https://www.instagram.com/chirayujoshi1189/
+- title: Nailing Coding Interviews
+  event_type: QnA Session
+  description: This event will be useful for pre-final and final year students as our campus placements are starting. This event will mostly focus on how to nail coding interviews at good product based companies, What care should be taken and how to apply for the interview and getting into it.
+  imageLinks: https://raw.githubusercontent.com/clubgamma/clubgamma-app-backend/master/images/nailing_coding_interviews2908/poster.png
+  date: 2020-08-29
+  time: 8:30 PM
+  venue: YouTube Channel
+  hashtag: '#ClubGamma @club_gamma #nailingcodingInterviews'
+  registrationLink: https://forms.gle/yKKVhgtSGF3eQKDUA
+  feedbackLink: 
+  sponsors:
+   - name: GitHub
+     type: Main sponsor
+     logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png 
+  speakers:
+   - name: Anjali Viramgama
+     post: SDE Intern at Facebook
+     image: https://raw.githubusercontent.com/clubgamma/clubgamma-app-backend/master/images/nailing_coding_interviews2908/guest_pic.jpg
+     designation: Guest of ClubGamma
+     linkedin: https://www.linkedin.com/in/anjali-viramgama-085285166/
+     twitter: https://twitter.com/AnjaliViramgama
+     github: https://github.com/AnjaliGama3
+     instagram: https://www.instagram.com/anjali.gama/
+
