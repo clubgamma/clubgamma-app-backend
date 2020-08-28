@@ -11,6 +11,9 @@
   sponsors:
    - name: GitHub
      type: Main sponsor
+     logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+   - name: GitHub
+     type: Main sponsor
      logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png 
   speakers:
    - name: Rudra Barad
