@@ -69,3 +69,54 @@
      session: QnA Session
      photo: https://drive.google.com/uc?export=view&id=1oLfFY6JkYzPvWjCBb8yLY_-1rPdHLgis
      discription: She will guide us on how to land in top MNC companies and what care should be taken while applying in top companies.
+- agenda:
+   - name: |
+        What are
+        microinteractions
+     time: 10:00 AM
+     duration:  15 min
+     timeduration: 10:00 to 10:15 AM
+     speaker: Tanisha Sabherwal
+     session: Introduction 
+     photo: https://user-images.githubusercontent.com/57007680/92902577-03144b00-f43f-11ea-9d43-83a711656eff.jpg
+     discription: She will give the basic introduction about microinteractions.
+   - name: |
+        microinteractions
+        around us
+     time: 10:15 AM
+     duration:  15 min
+     timeduration: 10:15 to 10:30 AM
+     speaker: Tanisha Sabherwal
+     session: Introduction 
+     photo: https://user-images.githubusercontent.com/57007680/92902577-03144b00-f43f-11ea-9d43-83a711656eff.jpg
+     discription: Let you know the real life microinteractions which is around us all the time but we didn't notice.
+   - name: |
+        Creating something
+        using CSS 
+     time: 10:30 AM
+     duration:  45 min
+     timeduration: 10:30 to 11:15 AM
+     speaker: Tanisha Sabherwal
+     session: Hands on session 
+     photo: https://user-images.githubusercontent.com/57007680/92902577-03144b00-f43f-11ea-9d43-83a711656eff.jpg
+     discription: Creating some sort of design and animation using CSS and JS.
+   - name: |
+        Making digital
+        products better
+     time: 11:15 AM
+     duration:  15 min
+     timeduration: 11:15 to 11:30 AM
+     speaker: Tanisha Sabherwal
+     session: Informative
+     photo: https://user-images.githubusercontent.com/57007680/92902577-03144b00-f43f-11ea-9d43-83a711656eff.jpg
+     discription: How we can give our to contribute to make digital products better.
+   - name: |
+        Bonus
+        Session
+     time: 11:30 AM
+     duration:  10 min
+     timeduration: 11:30 to 11:40 AM
+     speaker: Rudra Barad
+     session: Bonus Session
+     photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
+     discription: Something amazing is waiting for you, stay stuned for that.
