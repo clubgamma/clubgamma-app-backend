@@ -62,6 +62,10 @@
   hashtag: 'I am attending workshop Microinteractions with CSS Animations of @club_gamma !#ClubGamma #MicroInteractionsCSS'
   registrationLink: http://bit.ly/e3-reg/
   feedbackLink: http://bit.ly/e3-post/
+  sponsors:
+   - name: GitHub
+     type: Prizes Sponsor
+     logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   speakers:
    - name: Tanisha Sabherwal
      post: Intern at Goibibo
