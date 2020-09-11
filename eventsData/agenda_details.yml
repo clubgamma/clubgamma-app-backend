@@ -71,25 +71,15 @@
      discription: She will guide us on how to land in top MNC companies and what care should be taken while applying in top companies.
 - agenda:
    - name: |
-        What are
-        microinteractions
+        Introduction
+        Part
      time: 10:00 AM
-     duration:  15 min
-     timeduration: 10:00 to 10:15 AM
+     duration:  30 min
+     timeduration: 10:00 to 10:30 AM
      speaker: Tanisha Sabherwal
      session: Introduction 
      photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
      discription: She will give the basic introduction about microinteractions.
-   - name: |
-        microinteractions
-        around us
-     time: 10:15 AM
-     duration:  15 min
-     timeduration: 10:15 to 10:30 AM
-     speaker: Tanisha Sabherwal
-     session: Introduction 
-     photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
-     discription: Let you know the real life microinteractions which is around us all the time but we didn't notice.
    - name: Break Time
      time: 10:30 AM
      timeduration: 10:30 to 10:35 AM
