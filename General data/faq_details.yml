@@ -1,8 +1,8 @@
 - name: What is Club gamma? What is does?
-  detail: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-- name: Is Club Gamma a profitable organization?
-  detail: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+  detail: Club Gamma is a community run by enthusiastic students. We try to engage the students through our events like Workshops, Seminars, Hackathons etc.
 - name: Is there also a website for ClubGamma?
-  detail: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-- name: Why Club Gamma?
-  detail: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+  detail: Yes, you can visit our website at https://clubgamma.github.io/ for
+- name: Do I need to be very good at coding to be a part of Club Gamma ?
+  detail: No, We at Club Gamma believe diverse culture of the community. Club Gamma is open to any student, ranging from newbie programmers to experts in industry and other academic disciplines.
+- name: What if my questions are not answered in FAQ's section ?
+  detail: You can always contact on our social media handles, we are happy to solve your doubts :)
