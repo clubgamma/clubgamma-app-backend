@@ -78,7 +78,7 @@
      timeduration: 10:00 to 10:15 AM
      speaker: Tanisha Sabherwal
      session: Introduction 
-     photo: https://user-images.githubusercontent.com/57007680/92902577-03144b00-f43f-11ea-9d43-83a711656eff.jpg
+     photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
      discription: She will give the basic introduction about microinteractions.
    - name: |
         microinteractions
@@ -88,17 +88,17 @@
      timeduration: 10:15 to 10:30 AM
      speaker: Tanisha Sabherwal
      session: Introduction 
-     photo: https://user-images.githubusercontent.com/57007680/92902577-03144b00-f43f-11ea-9d43-83a711656eff.jpg
+     photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
      discription: Let you know the real life microinteractions which is around us all the time but we didn't notice.
    - name: |
-        Creating something
-        using CSS 
+        Creating some
+        CSS design 
      time: 10:30 AM
      duration:  45 min
      timeduration: 10:30 to 11:15 AM
      speaker: Tanisha Sabherwal
      session: Hands on session 
-     photo: https://user-images.githubusercontent.com/57007680/92902577-03144b00-f43f-11ea-9d43-83a711656eff.jpg
+     photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
      discription: Creating some sort of design and animation using CSS and JS.
    - name: |
         Making digital
@@ -108,7 +108,7 @@
      timeduration: 11:15 to 11:30 AM
      speaker: Tanisha Sabherwal
      session: Informative
-     photo: https://user-images.githubusercontent.com/57007680/92902577-03144b00-f43f-11ea-9d43-83a711656eff.jpg
+     photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
      discription: How we can give our to contribute to make digital products better.
    - name: |
         Bonus
