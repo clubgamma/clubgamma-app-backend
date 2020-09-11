@@ -90,32 +90,38 @@
      session: Introduction 
      photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
      discription: Let you know the real life microinteractions which is around us all the time but we didn't notice.
-   - name: |
-        Creating some
-        CSS design 
+   - name: Break Time
      time: 10:30 AM
+     timeduration: 10:30 to 10:35 AM
+   - name: |
+        Creating some  
+        CSS design 
+     time: 10:35 AM
      duration:  45 min
-     timeduration: 10:30 to 11:15 AM
+     timeduration: 10:35 to 11:20 AM
      speaker: Tanisha Sabherwal
      session: Hands on session 
      photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
      discription: Creating some sort of design and animation using CSS and JS.
+   - name: Break Time
+     time: 11:20 AM
+     timeduration: 11:20 to 11:25 AM
    - name: |
-        Making digital
+        Making digital  
         products better
-     time: 11:15 AM
+     time: 11:25 AM
      duration:  15 min
-     timeduration: 11:15 to 11:30 AM
+     timeduration: 11:25 to 11:40 AM
      speaker: Tanisha Sabherwal
      session: Informative
      photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
      discription: How we can give our to contribute to make digital products better.
    - name: |
         Bonus
-        Session
-     time: 11:30 AM
+        Session        
+     time: 11:40 AM
      duration:  10 min
-     timeduration: 11:30 to 11:40 AM
+     timeduration: 11:40 to 11:50 AM
      speaker: Rudra Barad
      session: Bonus Session
      photo: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
