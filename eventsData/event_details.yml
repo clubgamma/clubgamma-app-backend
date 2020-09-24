@@ -8,6 +8,10 @@
   hashtag: 'I am attending workshop Microinteractions with CSS Animations of @club_gamma !#ClubGamma #MicroInteractionsCSS'
   registrationLink: http://bit.ly/e3-reg/
   feedbackLink: http://bit.ly/e3-post/
+  sponsors:
+   - name: GitHub
+     type: Prizes Sponsor
+     logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   speakers:
    - name: Tanisha Sabherwal
      post: Intern at Goibibo
@@ -27,6 +31,10 @@
   hashtag: '#ClubGamma @club_gamma #nailingcodingInterviews'
   registrationLink: https://forms.gle/yKKVhgtSGF3eQKDUA
   feedbackLink: 
+  sponsors:
+   - name: GitHub
+     type: Main sponsor
+     logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png 
   speakers:
    - name: Anjali Viramgama
      post: SDE Intern at Facebook
@@ -46,6 +54,10 @@
   hashtag: '#ClubGamma @club_gamma #IntroToGitHub'
   registrationLink: https://docs.google.com/forms/d/e/1FAIpQLScDi6fludGDQvyLw4jzgtw4WimqTnFaKVLoETt6Hea4WMIiUw/closedform
   feedbackLink: http://bit.ly/e1-feedback
+  sponsors:
+   - name: GitHub
+     type: Main sponsor
+     logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   speakers:
    - name: Rudra Barad
      post: Graphics Designer
