@@ -47,7 +47,7 @@
   registrationLink: https://docs.google.com/forms/d/e/1FAIpQLScDi6fludGDQvyLw4jzgtw4WimqTnFaKVLoETt6Hea4WMIiUw/closedform
   feedbackLink: http://bit.ly/e1-feedback
   speakers:
-    - name: Rudra Barad
+   - name: Rudra Barad
      post: Graphics Designer
      image: https://raw.githubusercontent.com/clubgamma/clubgamma.github.io/master/client/src/assets/images/team_images/rudra-barad-min.jpg
      designation: Member at ClubGamma
