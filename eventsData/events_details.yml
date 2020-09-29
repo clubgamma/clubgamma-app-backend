@@ -79,6 +79,7 @@
   event_type: Month-long celebration
   description: This event will help beginners to get started with opensource contribution. Please visit https://clubgamma.github.io/hacktoberfest for more details/ 
   imageLinks: https://user-images.githubusercontent.com/57007680/94548355-3bed5600-026e-11eb-9bb7-99ca5aa629c9.png
+  date: 2020-10-31
   time: 00:00 AM
   venue: GitHub Organization
   hashtag: 'Get started with opensource by contributing one of the awesome beginner friendly projects on @club_gamma !#ClubGamma #HackAtClubGamma'
@@ -90,10 +91,3 @@
      logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
   speakers:
    - name: 
-     post:
-     image:
-     designation:
-     linkedin: 
-     twitter:
-     github: 
-     instagram:
