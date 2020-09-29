@@ -117,13 +117,5 @@
      photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
      discription: Something amazing is waiting for you, stay stuned for that.
 - agenda:
-   - name: |
-        Bonus
-        Session        
-     time: 11:40 AM
-     duration:  10 min
-     timeduration: 11:40 to 11:50 AM
-     speaker: Tanisha Sabherwal
-     session: Bonus Session
-     photo: https://user-images.githubusercontent.com/57007680/92906665-48864780-f442-11ea-901e-5ecf664fec5f.jpg
-     discription: Something amazing is waiting for you, stay stuned for that.
+   - name:     
+     time: 
